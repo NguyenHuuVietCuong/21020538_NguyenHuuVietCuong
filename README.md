@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=c8wswUEfnrQ
 https://lazyfoo.net/tutorials/SDL/index.php
 
 1.	Hướng dẫn cài đặt ( cách lấy chương trình về, tất cả các câu lệnh, cài đặt để có thể chạy được chương trình ): 
-  - Tải về tất cả các file được đính kém và cho file Mine_Sweeper.exe.
+  - Tải về tất cả các file được đính kém và cho chạy file Mine_Sweeper.exe.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
